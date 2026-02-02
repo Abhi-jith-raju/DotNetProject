@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbhiWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99eeef875781d77c72c9eb957c1d4d23f822733c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbhiWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbhiWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
